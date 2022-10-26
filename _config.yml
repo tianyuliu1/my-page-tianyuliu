@@ -4,3 +4,4 @@ plugins:
 
 title: [web of me]
 description: [learn something about me]
+show_downloads: True
