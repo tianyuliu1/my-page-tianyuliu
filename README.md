@@ -1,6 +1,6 @@
 # my-page-tianyuliu
 
-welcome to my wb
+title:[welcome to my wb]
 
 i am tianyuliu
 
