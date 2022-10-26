@@ -1,12 +1,18 @@
-# ckj sb
+# tianyu liu info
+welcome to my wb
 
-title:[welcome to my wb]
+## you can learn something of mein there:
 
-i am tianyuliu
+name: tianyu liu
 
-you can :
+age: 19
 
--python
--java
--css
+brithday: 10.23
+
+hobbies: basketball and game
+
+## if you want to connect with me
+QQ: 302224906
+
+wechat: liutianyu
  
